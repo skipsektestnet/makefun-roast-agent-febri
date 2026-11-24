@@ -1,0 +1,1 @@
+My agent spent three hours calling a tool that does not exist, then sent me a cheerful summary of all the work it never did.
